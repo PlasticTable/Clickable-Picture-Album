@@ -1,2 +1,2 @@
-# Clickable-Picture-Album
-A random html/css dump
+# Clickable-Picture-Album (JJBA)
+A random html/css dump of my current obsession
